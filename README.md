@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vishal Gupta</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Backend+Focused;DSA+Learner" />
+</p>
+
 <h3 align="center">Full Stack Developer | MERN Stack | Backend Focused</h3>
 
 <p align="center">
