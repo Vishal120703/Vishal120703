@@ -5,12 +5,6 @@
 
 <h3 align="center">Full Stack Developer | MERN Stack | Backend Focused</h3>
 
-<p align="center">
-  <a href="https://github.com/Vishal120703">
-    <img src="https://komarev.com/ghpvc/?username=Vishal120703&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
