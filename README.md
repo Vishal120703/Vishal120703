@@ -70,21 +70,6 @@ Git | GitHub | Postman | VS Code
 </p>
 
 
-## 📌 Featured Projects
-
-### 🔹 Job Listing Application
-- JWT Authentication
-- File Upload System(Cloudinery)
-- Secure REST APIs
-- Deployed
-
-### 🔹 Blog Website
-- CRUD Operations
-- User Authentication
-- Clean UI with EJS
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
