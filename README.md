@@ -6,6 +6,14 @@
 <h3 align="center">Full Stack Developer | MERN Stack | Backend Focused</h3>
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishal120703&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal120703&theme=tokyonight" />
+</p>
+
+---
 
 ## 🚀 About Me
 
@@ -69,13 +77,6 @@ Git | GitHub | Postman | VS Code
 
 </p>
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishal120703&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal120703&theme=tokyonight" />
-</p>
 
 ---
 
